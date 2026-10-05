@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "624502484704",
+    "project_id": "fir-task-app-1a835",
+    "storage_bucket": "fir-task-app-1a835.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624502484704:android:a3c3b703d76dbd92eeea85",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_mini_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgshOmOoPJpBTP62h8fxiqbwzTgBGytbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
